@@ -24,4 +24,6 @@ Bem-vindo ao ShopExpress, o lugar perfeito para você viver uma experiência de 
 
 ## Resultado
 
+https://shopexpress-dev.netlify.app/
+
 <img src="./public/resultado.png" >
