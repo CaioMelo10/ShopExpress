@@ -1,70 +1,27 @@
-# Getting Started with Create React App
+# ShopExpress - Carrinho de Compras com React JS
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Bem-vindo ao ShopExpress, o lugar perfeito para você viver uma experiência de compras online simplesmente incrível! Com o nosso projeto de carrinho de compras desenvolvido com React JS, você vai desfrutar de funcionalidades que vão facilitar a sua vida na hora de encontrar e adquirir os produtos que você deseja. Prepare-se para se surpreender!
 
-## Available Scripts
+## Funcionalidades Fantásticas
 
-In the project directory, you can run:
+- **Explore uma ampla variedade de produtos**: nossa plataforma exibe uma lista completa de produtos obtidos da API do Mercado Livre, para que você possa descobrir as melhores ofertas e encontrar exatamente o que procura.
 
-### `npm start`
+- **Busca personalizada e inteligente**: utilize a nossa ferramenta de busca por palavras-chave para encontrar os produtos específicos que você deseja. Com a integração da API do Mercado Livre, nossos resultados são precisos e atualizados.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- **Adicione seus produtos favoritos**: encontrou algo que adorou? Com apenas um clique, você pode adicionar os produtos ao seu carrinho de compras e seguir em frente com suas compras sem interrupções.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- **Controle total sobre o seu carrinho**: quer remover um item do seu carrinho? Sem problemas! Nossa plataforma permite que você remova facilmente os produtos indesejados, garantindo que você tenha exatamente o que deseja.
 
-### `npm test`
+## Tecnologias de Última Geração
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- **React JS**: uma biblioteca JavaScript poderosa que permite a criação de interfaces de usuário dinâmicas e interativas, garantindo uma navegação suave e eficiente.
 
-### `npm run build`
+- **HTML5**: a linguagem de marcação que estrutura todo o conteúdo do projeto, fornecendo uma base sólida para uma experiência consistente.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- **CSS3**: a linguagem de estilo que dá vida ao design da interface do usuário, tornando-a atraente, amigável e visualmente impressionante.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- **API do Mercado Livre**: integramos a API do Mercado Livre para obter dados atualizados e detalhados sobre os produtos, garantindo que você tenha as informações mais relevantes ao seu alcance.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Resultado
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<img src="./public/resultado.png" >

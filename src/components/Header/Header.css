@@ -1,0 +1,20 @@
+.header {
+  background-color: #08295e;
+  position: fixed;
+  width: 100%;
+  z-index: 1;
+}
+
+.header > div {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+}
+
+h1 {
+  font-size: 30px; 
+  color: #f6f6f6; 
+  font-weight: bold; 
+  text-align: center; 
+}
